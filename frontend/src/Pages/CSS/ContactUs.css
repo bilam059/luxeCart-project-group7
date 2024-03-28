@@ -1,0 +1,57 @@
+.about-container {
+  padding: 20px;
+}
+
+.about-heading {
+  font-size: 24px;
+  color: #333;
+}
+
+.contact-section {
+  margin-top: 20px;
+}
+
+.contact-section h2 {
+  font-size: 20px;
+  color: #333;
+}
+
+.contact-section p {
+  font-size: 16px;
+  color: #666;
+}
+
+.contact-section form {
+  margin-top: 10px;
+}
+
+.contact-section form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.contact-section form input,
+.contact-section form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contact-section form textarea {
+  resize: vertical;
+}
+
+.contact-section form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.contact-section form button:hover {
+  background-color: #0056b3;
+}
